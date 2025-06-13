@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 
+<h3 align="left"> A semi-senior SRE with over four years of experience in cloud infrastructure administration (AWS and GCP) with Terraform and Kubernetes, system reliability, and automation.
+My main focus is ensuring system stability, security, and efficiency by implementing best practices for monitoring, deployment, and scalability in the cloud.
+
+Key Experience and Skills
+Throughout my career, I have worked in various database administration and SRE roles.
+I have managed environments in Kubernetes and Docker, automated deployments with GitLab CI/CD, and worked with monitoring tools such as Prometheus, Datadog, and Grafana.
+I also have experience in database administration, such as MySQL, PostgreSQL, SQL Server, Oracle, and MongoDB.</h3>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
